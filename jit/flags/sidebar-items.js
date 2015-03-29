@@ -1,0 +1,1 @@
+initSidebarItems({"constant":[["NO_RETURN","/// When the function won't return a value"],["NO_THROW","/// When the function won't throw a value"],["TAIL","/// When the function is tail-recursive"]],"struct":[["CallFlags",""]]});

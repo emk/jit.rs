@@ -1,0 +1,1 @@
+initSidebarItems({"constant":[["FirstTagged",""],["Float32",""],["Float64",""],["Int",""],["Long",""],["NFloat",""],["NInt",""],["NUInt",""],["Pointer",""],["SByte",""],["Short",""],["Signature",""],["Struct",""],["SysBool",""],["SysChar",""],["UByte",""],["UInt",""],["ULong",""],["UShort",""],["Union",""],["Void",""]],"struct":[["TypeKind",""]]});

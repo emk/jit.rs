@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["Value","Values form the backbone of the storage system in `libjit`. Every value in the system, be it a constant, a local variable, or a temporary result, is represented by an object of type `Value`. The JIT then allocates registers or memory locations to the values as appropriate."]]});

@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["Builder","A context that is in the build phase while generating IR"],["Context","Holds all of the functions you have built and compiled. There can be multiple, but normally there is only one."]]});

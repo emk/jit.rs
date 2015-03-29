@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["Needed","An ELF dependency iterator"],["ReadElf","An ELF binary reader"],["ReadElfError","An error from trying to open the ELF, including the filename"],["WriteElf","An ELF binary reader"]],"enum":[["ReadElfErrorCode","An error from trying to open the ELF"]]});
